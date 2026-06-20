@@ -4,6 +4,7 @@
     // File Layout
     "rootDir": "./src", // トランスパイル対象のフォルダ
     "outDir": "./dist", // トランスパイル後の.jsファイルの出力先フォルダ
+    "noEmitOnError": true,
 
     // Environment Settings
     // See also https://aka.ms/tsconfig/module
